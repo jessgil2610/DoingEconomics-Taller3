@@ -51,7 +51,7 @@ DoingEconomics-Taller3/
 | Dataset | Fuente | Descripción |
 |---|---|---|
 | `temperature_anomalies_northernh.csv` | [NASA GISS](https://data.giss.nasa.gov/gistemp/) | Anomalías mensuales, estacionales y anuales de temperatura del hemisferio norte (1880–presente). Referencia: promedio 1951–1980. |
-| `co2_mauna_loa.xlsx` | [NOAA GML](https://gml.noaa.gov/ccgg/trends/) | Concentración mensual de CO₂ atmosférico registrada en el Observatorio Mauna Loa, Hawái (1958–2018). |
+| `co2_mauna_loa.xlsx` | [NOAA GML](https://tinyco.re/3763425) | Concentración mensual de CO₂ atmosférico registrada en el Observatorio Mauna Loa, Hawái (1958–2018). |
 
 
 
